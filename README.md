@@ -116,7 +116,7 @@ app.run()
         "is_creator": false,
         "is_scam": false,
         "is_fake": false,
-        "title": "Silinen grup",
+        "title": "ReislerSupport",
         "permissions": {
             "_": "ChatPermissions",
             "can_send_messages": true,
