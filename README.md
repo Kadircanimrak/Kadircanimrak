@@ -141,3 +141,8 @@ app.run()
         "all"
     ]
 }
+build:
+  docker:
+    worker: Dockerfile
+run:
+  worker: python3 -m krypton
